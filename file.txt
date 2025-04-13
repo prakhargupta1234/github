@@ -5,3 +5,12 @@ git commit -m "message"
 git log
 git checkout <commit_id >  || <branch_name>
 for quit ----> q 
+git checkout -b <branch_name>
+git branch <branch_name>
+git branch
+git branch -d <branch_name>
+git remote add origin url
+git push origin branch_name(master)
+git remote add origin https://github.com/prakhargupta1234/github.git
+ git remote -v
+ git push origin master
