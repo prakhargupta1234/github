@@ -1,0 +1,7 @@
+git init
+git status 
+git add .    || git add<file name>
+git commit -m "message"
+git log
+git checkout <commit_id >  || <branch_name>
+for quit ----> q 
